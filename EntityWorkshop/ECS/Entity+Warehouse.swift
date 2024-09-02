@@ -16,7 +16,7 @@ extension Entity {
         let width = width * 0.75
         let warehouseModel = ModelEntity(
             mesh: .generateBox(width: width, height: width * 1.3, depth: width, cornerRadius: 0.01),
-            materials: [SimpleMaterial(color: .systemMint, isMetallic: true)]
+            materials: [SimpleMaterial(color: .systemPurple, isMetallic: true)]
         )
         warehouseModel.name = "WarehouseModel"
         warehouse.addChild(warehouseModel)
