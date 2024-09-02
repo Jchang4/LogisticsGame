@@ -16,7 +16,7 @@ final class RequiresPackageGeneration: System {
     static let query = EntityQuery(where: .has(BuildingComponent.self))
     static let vehicleQuery = EntityQuery(where: .has(VehicleComponent.self))
 
-    static let minPctBuildingsWithPackages: Double = 0.33
+    static let minPctBuildingsWithPackages: Double = 0.25
 
     init(scene: Scene) {}
 
