@@ -1,6 +1,7 @@
 # Logistics Game
 
 [Example Video](https://github.com/user-attachments/assets/02eaef3a-d5c7-4f05-96b2-93305b038012)
+
 *The recording does not show where I'm tapping. Whenever colored tiles appear over the black road tiles, I have clicked the corresponding vehicle.*
 
 Logistics Game is a high-stakes strategy game where you race against the clock to deliver packages from Warehouses to Businesses using your fleet of Vehicles. Packages spawn constantly, and it's up to you to ensure they're delivered on time. Miss a delivery, and it’s game over!
